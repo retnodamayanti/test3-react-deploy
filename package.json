@@ -2,7 +2,7 @@
   "name": "test3-react-deploy",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://retnodamayanti.github.io/test2-react-deploy",
+  "homepage": "https://retnodamayanti.github.io/test3-react-deploy",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
